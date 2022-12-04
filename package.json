@@ -20,7 +20,7 @@
     "crypto",
     "alpha-numeric"
   ],
-  "author": "Sehrope Sarkuni <sehrope@jackdb.com>",
+  "author": "M Elliott <melliott03@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "private-repo": "git@github.com:melliott03/rand-token-callback.git"
