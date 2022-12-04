@@ -23,7 +23,7 @@
   "author": "M Elliott <melliott03@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "private-repo": "git@github.com:melliott03/rand-token-callback.git"
+    
   },
   "devDependencies": {
     "lodash": "~2.4.1",
